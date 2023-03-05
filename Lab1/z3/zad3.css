@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+    margin: 10px;
+}
+.C{
+    background-color: #f5deb3;
+    border: 2px solid red;
+    position: relative;
+    width: 400px;
+    height: 150px;
+}
+.A{
+    position: relative;
+    margin-left: 30px;
+    margin-top: 10px;
+ 
+}
+.B{
+    position: relative;
+    left: 30px;
+    bottom: 30px;
+}
