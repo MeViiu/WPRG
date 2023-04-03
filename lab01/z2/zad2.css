@@ -1,0 +1,22 @@
+*{
+    background-color: gray;
+    text-align: center;
+}
+.A{
+    position: relative;
+    background-color: yellow;
+    border: solid red;
+    border-width: thick;
+    width: 80%;
+    height: 100px;
+}
+.B{
+    top: 50px;
+    right: 50px;
+    width: 80%;
+    height: 100px;
+    position: absolute;
+    background-color: white;
+    border: solid blue;
+    border-width: thick;
+}

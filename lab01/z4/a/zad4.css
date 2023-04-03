@@ -1,0 +1,39 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    font-size: 40px;
+}
+
+#outer
+{
+    text-align: justify;
+    text-align: center;
+    display: flex;
+}
+
+.box:nth-child(1)
+{
+    margin-left: 44%;
+    float: left;
+    width: 4%;
+    height: 50px;
+    background-color: #696969;
+}
+
+.box:nth-child(2)
+{
+    float: left;
+    width: 4%;
+    height: 50px;
+    background-color: #c0c0c0;
+}
+
+.box:nth-child(3)
+{
+    float: left;
+    width: 4%;
+    height: 50px;
+    background-color: #d3d3d3;
+}
